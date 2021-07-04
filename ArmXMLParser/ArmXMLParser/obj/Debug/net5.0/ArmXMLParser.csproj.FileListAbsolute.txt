@@ -1,0 +1,15 @@
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ArmXMLParser.exe
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ArmXMLParser.deps.json
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ArmXMLParser.runtimeconfig.json
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ArmXMLParser.runtimeconfig.dev.json
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ArmXMLParser.dll
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ref\ArmXMLParser.dll
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\bin\Debug\net5.0\ArmXMLParser.pdb
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.AssemblyInfoInputs.cache
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.AssemblyInfo.cs
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.dll
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ref\ArmXMLParser.dll
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.pdb
+C:\Users\Raymond\source\repos\ArmXMLParser\ArmXMLParser\obj\Debug\net5.0\ArmXMLParser.genruntimeconfig.cache
