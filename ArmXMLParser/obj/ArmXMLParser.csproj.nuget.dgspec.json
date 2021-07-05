@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raymond\\source\\repos\\ArmXMLParser\\ArmXMLParser\\ArmXMLParser.csproj": {}
+    "E:\\Projects\\Aarch64-Instruction-Table\\ArmXMLParser\\ArmXMLParser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raymond\\source\\repos\\ArmXMLParser\\ArmXMLParser\\ArmXMLParser.csproj": {
+    "E:\\Projects\\Aarch64-Instruction-Table\\ArmXMLParser\\ArmXMLParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raymond\\source\\repos\\ArmXMLParser\\ArmXMLParser\\ArmXMLParser.csproj",
+        "projectUniqueName": "E:\\Projects\\Aarch64-Instruction-Table\\ArmXMLParser\\ArmXMLParser.csproj",
         "projectName": "ArmXMLParser",
-        "projectPath": "C:\\Users\\Raymond\\source\\repos\\ArmXMLParser\\ArmXMLParser\\ArmXMLParser.csproj",
+        "projectPath": "E:\\Projects\\Aarch64-Instruction-Table\\ArmXMLParser\\ArmXMLParser.csproj",
         "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raymond\\source\\repos\\ArmXMLParser\\ArmXMLParser\\obj\\",
+        "outputPath": "E:\\Projects\\Aarch64-Instruction-Table\\ArmXMLParser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Programs\\VS\\sdk\\NuGetPackages"

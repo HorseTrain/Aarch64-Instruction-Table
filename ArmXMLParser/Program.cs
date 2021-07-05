@@ -13,6 +13,15 @@ namespace ArmXMLParser
 
         static void Main(string[] args)
         {
+            if (args.Length == 0)
+            {
+                args = new string[] { @"D:\Programming\Arm XML\ISA_A64_xml_v87A-2021-03\encodingindex.xml" };
+            }
+            else
+            {
+                Console.WriteLine("Looking for encodingindex.xml");
+            }
+
             Console.WriteLine("Generating Table");
 
             XmlDocument document = new XmlDocument();
@@ -243,7 +252,7 @@ namespace ArmXMLParser
 
                         for (int i = 0; i < len; i++)
                         {
-                            EncodingTemp[i + bottom] = encoding[i];
+                            EncodingTemp[i + bottom] = encoding[(len - 1) - i];
                         }
                     }
 
@@ -256,7 +265,7 @@ namespace ArmXMLParser
                         str.Append(c);
                     }
 
-                    str.Append($"; {Name}; {CurrentClass.Name}; {Tag};");
+                    str.Append($";{Name};{CurrentClass.Name};{Tag};");
 
                     string[] Operands = CurrentClass.Operands.Keys.ToArray();
 
@@ -269,7 +278,7 @@ namespace ArmXMLParser
 
                         int bottom = top - (len - 1);
 
-                        str.Append($" {operand}({bottom} {(top - bottom) + 1})");
+                        str.Append($"{operand} {bottom} {(top - bottom) + 1},");
                     }
 
                     str.Append("; ");
